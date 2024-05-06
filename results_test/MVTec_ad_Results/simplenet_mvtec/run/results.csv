@@ -1,0 +1,7 @@
+Row Names,instance_auroc,full_pixel_auroc,anomaly_pixel_auroc,
+,,,,
+mvtec_toothbrush,1,0.9852190788600633,0.9326656432986581,
+,,,,
+mvtec_bottle,1,0.9807077163820843,0.9058735312632223,
+,,,,
+Mean,1,0.9829633976210739,0.9192695872809402,
